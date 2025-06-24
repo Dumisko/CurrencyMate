@@ -34,7 +34,7 @@ function App() {
         className="flex justify-center items-center w-full h-screen bg-no-repeat bg-cover"
         style={{
           backgroundImage:
-            "url(https://www.wallpaperflare.com/static/500/303/638/currency-finance-dollar-business-wallpaper.jpg)",
+            "url(https://static5.depositphotos.com/1005893/446/i/950/depositphotos_4460344-stock-photo-indian-currency.jpg)",
         }}
       >
         <div className="max-w-80 text-[small] sm:text-base sm:max-w-[65%] md:max-w-[55%] lg:max-w-[44%] border rounded-lg p-2 sm:p-6 pb-1 backdrop-brightness-80 backdrop-blur-sm text-center">
