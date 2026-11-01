@@ -1,6 +1,8 @@
 import React from "react";
 import { Link } from "react-router-dom";
 
+// this is footer component code
+
 function Footer() {
   return (
     <footer className="bg-blue-600 text-white text-center py-3 mt-auto">
